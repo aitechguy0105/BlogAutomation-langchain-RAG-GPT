@@ -1,0 +1,43 @@
+.head-setting{
+  filter: drop-shadow(rgba(0, 0, 0, 0.15) 0px 2px 6px);
+  width: 100%;
+  height:50px;
+  background-color: white;
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+
+#search-bar {
+    width: 100%;
+    color: black;
+    border-radius: 24px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    background-color: transparent;
+    height: 40px;
+    padding-left: 44px;
+  }
+  
+  .search-icon {
+    position: absolute;
+    width:25px;
+    height:25px;
+    top:8px;
+    left:10px;
+    z-index: 1;
+    vertical-align: middle;
+  }
+
+  .custom-modal .ant-modal-title{
+    font-size: 30px;
+    height: 100px;
+  }
+
+  .signup-modal{
+    top:200px;
+    height:800px;
+  }
+

@@ -1,0 +1,4 @@
+"id","name","email","password","created_at","modified_at","role","is_subscribe"
+1,"bot","bot.manager@gmail.com","$2b$10$VZ.UngFBmc.A2MOUCkAsyOBofzZryyb/2jzxdMdn8d7/UrNtUFb4y","2024-01-15 19:17:51.208956","2024-01-15 19:17:51.208956",1,True
+2,"sdf","df@gmail.com","$2b$10$j8mbtAmqfZatW3YmQZXIi.63Ewx0fdiB9uV4DW0uy5VVBKMNX1QZW","2024-01-16 02:30:45.200142","2024-01-16 02:30:45.200142",2,True
+3,"Ronan Lee","ronanlee0105@gmail.com","$2b$10$U3M5M6fadnI3pYwMBz8Kn.Ybiu6eJunru7DGM/ZGjy7jGvo9o6.dy","2024-01-16 02:38:03.954923","2024-01-16 02:38:03.954923",2,True
