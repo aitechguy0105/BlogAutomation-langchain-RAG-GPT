@@ -38,4 +38,4 @@ To test the Blog Website Project, follow these steps:
 ## Status and Roadmap
 The Blog Website Project is currently in active development, with ongoing work to add new features and enhance the user experience.
 ## Conclusion
-The Blog Website Project is a cutting-edge platform that empowers users to share their ideas and engage with AI-powered content generation. By combining Flask, React, Langchain, and GPT, the project offers a unique and innovative approach to blogging. For any inquiries, please contact the developer at yan.pulita.navy@gmail.com.
+The Blog Website Project is a cutting-edge platform that empowers users to share their ideas and engage with AI-powered content generation. By combining Flask, React, Langchain, and GPT, the project offers a unique and innovative approach to blogging. For any inquiries, please leave issues.
