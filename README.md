@@ -1,6 +1,6 @@
 # Blog Website Project using Flask, React, Langchain, and GPT
 ## Introduction
-Welcome to the Blog Website Project, a platform that combines the power of Flask for the backend, React for the frontend, and AI technologies such as Langchain and GPT. This project is developed by Ronan Lee and Jinguo Lee. The website is hosted at [goldexcg.com](https://goldexcg.com/).
+Welcome to the Blog Website Project, a platform that combines the power of Flask for the backend, React for the frontend, and AI technologies such as Langchain and GPT. The website is hosted at [goldexcg.com](https://goldexcg.com/).
 ## Prerequisites
 Before using this project, ensure that you have the following installed on your computer:
 - Python 3.6 or higher
