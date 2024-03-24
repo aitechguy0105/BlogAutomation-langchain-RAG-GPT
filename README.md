@@ -10,7 +10,7 @@ Before using this project, ensure that you have the following installed on your 
 - Langchain
 - GPT
 ## How it works
-The Blog Website Project leverages Flask for the backend and React for the frontend. It integrates Langchain for language translation and GPT for AI-powered content generation. The website offers a user-friendly interface, allowing users to create accounts, write blog posts, and engage with other users' content through comments, likes, and shares.
+The Blog Website Project leverages Flask for the backend and React for the frontend. It integrates Langchain and GPT for AI-powered content generation. The website offers a user-friendly interface, allowing users to create accounts, write blog posts, and engage with other users' content through comments, likes, and shares.
 ![diagram](./diagram.PNG)
 ## Features
 The project includes the following key features:
