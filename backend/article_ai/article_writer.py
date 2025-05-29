@@ -47,13 +47,13 @@ def get_blog_chain():
     # topic_llm = GoogleGenerativeAI(**topic_llm_kwargs)
     content_llm_kwargs = {
         "temperature": 0.7,
-        "model_name": "gpt-3.5-turbo",
+        "model_name": "gpt-4o",
         "max_tokens": 1500  # ~ 1125 words
     }
 
     brief_llm_kwargs = {
         "temperature": 0.7,
-        "model_name": "gpt-3.5-turbo",
+        "model_name": "gpt-4o",
         "max_tokens": 50  # ~ 38words
     }
     content_llm = OpenAI(**content_llm_kwargs)
@@ -236,18 +236,18 @@ class ArticleWriter():
 
         content_llm_kwargs = {
             "temperature": 0.7,
-            "model_name": "gpt-3.5-turbo",
+            "model_name": "gpt-4o",
             "max_tokens": 1500  # ~ 1125 words
         }
 
         brief_llm_kwargs = {
             "temperature": 0.7,
-            "model_name": "gpt-3.5-turbo",
+            "model_name": "gpt-4o",
             "max_tokens": 50  # ~ 38words
         }
         summary_llm_kwargs = {
             "temperature": 0.85,
-            "model_name": "gpt-3.5-turbo",
+            "model_name": "gpt-4o",
             "max_tokens": 50
         }
 
